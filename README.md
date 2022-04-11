@@ -1,3 +1,11 @@
+Aplikacja używa biblioteki React w wersji 18.0.0
+
+aby ją uruchomić należy skorzystać z polecania
+
+npm start 
+
+w wierszu poleceń w folderze głównym
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
