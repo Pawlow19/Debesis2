@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Mail 1",
+      "content": "1234567890 1234567890 1234567890",
+      "adate": "2015-04-22"
+    },
+    {
+      "id": 2,
+      "title": "Not Mail 2",
+      "content": "Lorem ipsum more words soon",
+      "adate": "2016-04-23"
+    },
+    {
+      "id": 3,
+      "title": "Definetelly Mail 3",
+      "content": "Lorem ipsum more words soon <p style=\"text-align: justify;\"> tu był jakiś html",
+      "adate": "2015-04-21"
+    },
+    {
+      "id": 4,
+      "title": "Looks like Mail 4",
+      "content": "Lorem ipsum more words soon",
+      "adate": "2016-06-22"
+    },
+    {
+      "id": 5,
+      "title": "That is Mail 5",
+      "content": "Lorem ipsum more words soon",
+      "adate": "2014-07-22"
+    }
+  ]
